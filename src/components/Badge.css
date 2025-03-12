@@ -1,0 +1,52 @@
+span {
+  background-color: #f3f4f6;
+  border: none;
+  border-radius: 0.25em;
+  font-size: 0.875em;
+  padding: 0.5em 1.25em;
+  color: #1f2937;
+  cursor: pointer;
+}
+
+span:hover {
+  outline: #000000 solid 2px;
+}
+
+span.pilled {
+  border-radius: 1.2em;
+}
+
+span.red {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+span.yellow {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+span.green {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+
+span.blue {
+  background-color: #dbeafe;
+  color: #1e40af;
+}
+
+span.indigo {
+  background-color: #e0e7ff;
+  color: #3730a3;
+}
+
+span.purple {
+  background-color: #ede9fe;
+  color: #5b21b6;
+}
+
+span.pink {
+  background-color: #fce7f3;
+  color: #9d174d;
+}

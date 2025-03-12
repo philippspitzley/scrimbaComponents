@@ -1,0 +1,46 @@
+div.banner-container {
+  background-color: red;
+  padding: 2em 2em 2em 4.75em;
+  position: relative;
+  border-radius: 0.5em;
+  text-align: start;
+  max-width: 600px;
+  margin-inline: auto;
+}
+img {
+  position: absolute;
+  left: 2em;
+  width: 1.75em;
+}
+header {
+  margin-block-end: 0.5em;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+div.banner-container.success {
+  color: #065f46;
+  background-color: #ecfdf5;
+}
+
+div.banner-container.warning {
+  color: #92400e;
+  background-color: #fffbeb;
+}
+
+div.banner-container.error {
+  color: #92400e;
+  background-color: #fef2f2;
+}
+
+div.banner-container.info {
+  color: #1e40af;
+  background-color: #eff6ff;
+}
+
+div.banner-container.success {
+  color: #065f46;
+  background-color: #ecfdf5;
+}
